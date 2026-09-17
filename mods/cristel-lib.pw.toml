@@ -1,0 +1,12 @@
+name = "Cristel Lib"
+filename = "cristellib-1.1.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4861/834/cristellib-1.1.5-fabric.jar"
+hash-format = "sha256"
+hash = "6d4e73a95e7bee1e0f9b2a531d40fcc255490c064f4607f58d11f48c4c61101b"
+
+[update.curseforge]
+file-id = 4861834
+project-id = 856996

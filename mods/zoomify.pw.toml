@@ -1,0 +1,12 @@
+name = "Zoomify"
+filename = "zoomify-2.15.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7463/100/zoomify-2.15.1%2b1.20.1.jar"
+hash-format = "sha256"
+hash = "05908102a0609be8809358c4a1aed825d443c6363129d6c5374f2e634f5e1f19"
+
+[update.curseforge]
+file-id = 7463100
+project-id = 574741

@@ -1,0 +1,12 @@
+name = "Colorwheel"
+filename = "colorwheel-fabric-1.2.6+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8086/319/colorwheel-fabric-1.2.6%2bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "327db05f9e1750df61cbab03b93a27e4594cc7ab687f722c71e81ac9bf5bf0e0"
+
+[update.curseforge]
+file-id = 8086319
+project-id = 1254143

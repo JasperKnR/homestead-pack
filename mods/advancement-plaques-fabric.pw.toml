@@ -1,0 +1,12 @@
+name = "Advancement Plaques [Fabric]"
+filename = "AdvancementPlaques-1.20.1-fabric-1.6.7.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/5762/252/AdvancementPlaques-1.20.1-fabric-1.6.7.jar"
+hash-format = "sha256"
+hash = "a162aa8d872f5327405ba1ce1d601a825eb36f530e61d5fcae6c8d83d7107d94"
+
+[update.curseforge]
+file-id = 5762252
+project-id = 514882

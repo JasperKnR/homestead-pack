@@ -1,0 +1,12 @@
+name = "Extra Thicc Packets"
+filename = "extra_thicc_packets-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4032/19/extra_thicc_packets-1.0.jar"
+hash-format = "sha256"
+hash = "80ec0a7056b77fb1e0001a015a7d31374eee670ef4478aad26954d81b83b55f5"
+
+[update.curseforge]
+file-id = 4032019
+project-id = 688480

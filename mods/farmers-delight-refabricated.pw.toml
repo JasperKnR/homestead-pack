@@ -1,0 +1,12 @@
+name = "Farmer's Delight Refabricated"
+filename = "FarmersDelight-1.20.1-2.4.1+refabricated.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7199/661/FarmersDelight-1.20.1-2.4.1%2brefabricated.jar"
+hash-format = "sha256"
+hash = "81d78e10b58e220bffbe4932de5486ac2127efc37908e89161237a34f0828fac"
+
+[update.curseforge]
+file-id = 7199661
+project-id = 993166

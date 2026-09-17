@@ -1,0 +1,12 @@
+name = "Blahaj - Replushed"
+filename = "blahaj-fabric-1.20.0-0.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4580/836/blahaj-fabric-1.20.0-0.3.2.jar"
+hash-format = "sha256"
+hash = "96e7ad4bc85237bcd8a5850cb21bc1e02dc9e5467d6fdde6ba2188315b845ca3"
+
+[update.curseforge]
+file-id = 4580836
+project-id = 790339

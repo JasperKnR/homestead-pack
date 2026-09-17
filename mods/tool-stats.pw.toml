@@ -1,0 +1,12 @@
+name = "Tool Stats"
+filename = "ToolStats-Fabric-1.20.1-16.0.10.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7613/278/ToolStats-Fabric-1.20.1-16.0.10.jar"
+hash-format = "sha256"
+hash = "654b72835244ea85ac586d85a30b576f83ffb82149904492b4c8f1603c7d8db9"
+
+[update.curseforge]
+file-id = 7613278
+project-id = 377109

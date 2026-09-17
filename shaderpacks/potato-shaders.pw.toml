@@ -1,0 +1,12 @@
+name = "Potato Shader"
+filename = "PotatoShaders_v1.0d.zip"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/4584/380/PotatoShaders_v1.0d.zip"
+hash-format = "sha256"
+hash = "55aa21562dbc2860fd466719908437a8bc22ad358a673fb3c119e4bcdf1616af"
+
+[update.curseforge]
+file-id = 4584380
+project-id = 467280

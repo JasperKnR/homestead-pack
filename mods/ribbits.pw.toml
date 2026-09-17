@@ -1,0 +1,12 @@
+name = "Ribbits"
+filename = "Ribbits-1.20.1-Fabric-3.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7354/935/Ribbits-1.20.1-Fabric-3.0.5.jar"
+hash-format = "sha256"
+hash = "cc5863afb0b164669df77726cb6b6dc108523801f1fa4ce859471afc7f3ab0ab"
+
+[update.curseforge]
+file-id = 7354935
+project-id = 622967

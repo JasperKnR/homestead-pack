@@ -1,0 +1,12 @@
+name = "Incendium"
+filename = "Incendium_1.20.x_v5.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5351/562/Incendium_1.20.x_v5.3.5.jar"
+hash-format = "sha256"
+hash = "96068e4d66ea503efebb1e31d28c2d6ce85db749049463cab9f799c8c0ae1e75"
+
+[update.curseforge]
+file-id = 5351562
+project-id = 591388

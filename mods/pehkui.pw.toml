@@ -1,0 +1,12 @@
+name = "Pehkui"
+filename = "Pehkui-3.8.2+1.14.4-1.20.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5393/114/Pehkui-3.8.2%2b1.14.4-1.20.6.jar"
+hash-format = "sha256"
+hash = "5df4e35389fdf84f402ffe0c0499962f5b31d0269963ad5adb8f6af671ad1ef0"
+
+[update.curseforge]
+file-id = 5393114
+project-id = 319596

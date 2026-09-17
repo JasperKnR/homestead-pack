@@ -1,0 +1,12 @@
+name = "Dusty Decorations"
+filename = "DustyDecoRefabricated-1.1-1.20.1+1.20.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5892/154/DustyDecoRefabricated-1.1-1.20.1%2b1.20.2.jar"
+hash-format = "sha256"
+hash = "caf67b644971dd3d069b0508541781a3b0c2bde638f831bbfcaec273ed20987d"
+
+[update.curseforge]
+file-id = 5892154
+project-id = 843344

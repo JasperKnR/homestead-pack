@@ -1,0 +1,12 @@
+name = "Squish"
+filename = "squish-0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7370/997/squish-0.3-1.20.1.jar"
+hash-format = "sha256"
+hash = "b26e80a33b6a061c7e81ba03a685197be5aec0e2483d2e1e5a323fcdd38f8c3a"
+
+[update.curseforge]
+file-id = 7370997
+project-id = 1383770

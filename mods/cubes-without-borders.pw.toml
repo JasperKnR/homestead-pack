@@ -1,0 +1,12 @@
+name = "Cubes Without Borders"
+filename = "cwb-fabric-3.0.0+mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5855/462/cwb-fabric-3.0.0%2bmc1.20.jar"
+hash-format = "sha256"
+hash = "3a5974fc1fb82eed22e759aa788c3c387402a25042ccf8865678be06a1c4d6fb"
+
+[update.curseforge]
+file-id = 5855462
+project-id = 975120

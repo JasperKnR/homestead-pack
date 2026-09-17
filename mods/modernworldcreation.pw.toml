@@ -1,0 +1,12 @@
+name = "Modern World Creation"
+filename = "modernworldcreation_fabric_2.0.1_MC_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6292/692/modernworldcreation_fabric_2.0.1_MC_1.20.1.jar"
+hash-format = "sha256"
+hash = "7c8f9444642242f61b0bd99cbdd8a7d114fd23210e8851050264fec0d75f9194"
+
+[update.curseforge]
+file-id = 6292692
+project-id = 485245

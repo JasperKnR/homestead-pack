@@ -1,0 +1,12 @@
+name = "Ksyxis"
+filename = "Ksyxis-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7979/747/Ksyxis-1.4.3.jar"
+hash-format = "sha256"
+hash = "23c8c5993004f0584eb27b19b4397b7aa8833f41b8f2d1ea201ee54a60f964b9"
+
+[update.curseforge]
+file-id = 7979747
+project-id = 537533

@@ -1,0 +1,12 @@
+name = "Universal Bone Meal"
+filename = "UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4699/172/UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar"
+hash-format = "sha256"
+hash = "e2b62667c58fba965d4056a2bd500ca59b24fb702dcd970922ba83a432526852"
+
+[update.curseforge]
+file-id = 4699172
+project-id = 594013

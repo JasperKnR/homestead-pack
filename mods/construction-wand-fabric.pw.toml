@@ -1,0 +1,12 @@
+name = "Construction Wand (Fabric)"
+filename = "constructionwand-2.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8021/907/constructionwand-2.1.2%2b1.20.1.jar"
+hash-format = "sha256"
+hash = "ce4505ef6cb3fa4408a11fc599ac7f7b6d8303527d0b6b20911342a8d6e47b7e"
+
+[update.curseforge]
+file-id = 8021907
+project-id = 1035665

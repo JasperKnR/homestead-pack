@@ -1,0 +1,12 @@
+name = "Panda's Falling Trees"
+filename = "fallingtrees-fabric-mc1.20-0.13.2-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6231/29/fallingtrees-fabric-mc1.20-0.13.2-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "1a476ff6090341ecbede1c3fffc34aa421848870c72b14aaffdd4c1807f8ea4a"
+
+[update.curseforge]
+file-id = 6231029
+project-id = 880630

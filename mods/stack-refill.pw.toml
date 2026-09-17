@@ -1,0 +1,12 @@
+name = "Stack Refill"
+filename = "stackrefill-1.20.1-4.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6713/333/stackrefill-1.20.1-4.9.jar"
+hash-format = "sha256"
+hash = "be3a46145e95014f14d8ede203ab2e579ff59daa4d834cce04463df8ebf2a016"
+
+[update.curseforge]
+file-id = 6713333
+project-id = 411813

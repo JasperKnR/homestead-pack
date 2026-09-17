@@ -1,0 +1,12 @@
+name = "CraftingPad (Fabric)"
+filename = "CraftingPad-fabric-1.20.1-1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4605/332/CraftingPad-fabric-1.20.1-1.0.12.jar"
+hash-format = "sha256"
+hash = "dc9a31b6838141fa9b60f9080e22283aaef94d0f406a61d3235863374a9e205f"
+
+[update.curseforge]
+file-id = 4605332
+project-id = 308976

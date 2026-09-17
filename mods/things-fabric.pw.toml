@@ -1,0 +1,12 @@
+name = "Things [Fabric]"
+filename = "things-0.3.3+1.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4921/204/things-0.3.3%2b1.20.jar"
+hash-format = "sha256"
+hash = "62ed1a15b7515fb2c1323f4b44d221975a1d0293e24e9235a5e04dc0afa37206"
+
+[update.curseforge]
+file-id = 4921204
+project-id = 456151

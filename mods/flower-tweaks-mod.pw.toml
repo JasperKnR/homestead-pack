@@ -1,0 +1,12 @@
+name = "Flower Tweaks"
+filename = "flower-tweaks-1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5299/563/flower-tweaks-1.jar"
+hash-format = "sha256"
+hash = "c1d73b858039dd55a33a3887e466348923e57260cc83c6f0e1c4208e9fdb1ab4"
+
+[update.curseforge]
+file-id = 5299563
+project-id = 1010566

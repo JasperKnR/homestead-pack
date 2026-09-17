@@ -1,0 +1,12 @@
+name = "ScreenshotToClipboard"
+filename = "screenshottoclipboard-1.0.0-1.18.2.1.20.4-release.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7534/85/screenshottoclipboard-1.0.0-1.18.2.1.20.4-release.jar"
+hash-format = "sha256"
+hash = "2fa22a598308d1d530407d870d9b61f256e17e45deacaf8045eae33d1138d801"
+
+[update.curseforge]
+file-id = 7534085
+project-id = 1445937

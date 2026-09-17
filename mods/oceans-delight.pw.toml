@@ -1,0 +1,12 @@
+name = "Ocean's Delight"
+filename = "oceansdelight-fdrf-fabric-1.0.2-1.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5230/28/oceansdelight-fdrf-fabric-1.0.2-1.20.jar"
+hash-format = "sha256"
+hash = "c87de6e5cd772c65d5f79e8b8fcbe04e6bad0e29b5caffde1141c59e9fde2754"
+
+[update.curseforge]
+file-id = 5230028
+project-id = 841262

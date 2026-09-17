@@ -1,0 +1,12 @@
+name = "Copper Age Backport"
+filename = "copperagebackport-fabric-1.20.1-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7283/480/copperagebackport-fabric-1.20.1-0.1.4.jar"
+hash-format = "sha256"
+hash = "7ca1a33cd6b715224ad827b2fd3b4cd3520c22cd8eb8102eb7ba7f321acf8df3"
+
+[update.curseforge]
+file-id = 7283480
+project-id = 1386823

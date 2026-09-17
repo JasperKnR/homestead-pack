@@ -1,0 +1,12 @@
+name = "TameableMinisheep"
+filename = "tameableminisheep-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6916/590/tameableminisheep-1.0.jar"
+hash-format = "sha256"
+hash = "43547ee19181752e2908b487f3a129ab499810c0b762c7c082ccd9777c6414dc"
+
+[update.curseforge]
+file-id = 6916590
+project-id = 1332726

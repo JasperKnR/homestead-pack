@@ -1,0 +1,12 @@
+name = "YUNG's Extras (Fabric)"
+filename = "YungsExtras-1.20-Fabric-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4769/515/YungsExtras-1.20-Fabric-4.0.3.jar"
+hash-format = "sha256"
+hash = "1765d0885e8ebe530ae81f2b2ae3d6d93c842bb04e03bdbde00f2b45c918c97a"
+
+[update.curseforge]
+file-id = 4769515
+project-id = 590993

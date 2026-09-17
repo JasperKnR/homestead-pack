@@ -1,0 +1,12 @@
+name = "Colorwheel Patcher"
+filename = "colorwheel_patcher-fabric-1.0.5+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7924/939/colorwheel_patcher-fabric-1.0.5%2bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "bf86c060026c6bec70a2b0b81e8e40d1a0a109b34cac017da4cbce9b2460d918"
+
+[update.curseforge]
+file-id = 7924939
+project-id = 1285475

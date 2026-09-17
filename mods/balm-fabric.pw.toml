@@ -1,0 +1,12 @@
+name = "Balm (Outdated Versions)"
+filename = "balm-fabric-1.20.1-7.3.38.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7420/614/balm-fabric-1.20.1-7.3.38.jar"
+hash-format = "sha256"
+hash = "0f4c8aefb655d6e042176b842eed38dbde5e352d732a5e8ad98f9e965360c66f"
+
+[update.curseforge]
+file-id = 7420614
+project-id = 500525

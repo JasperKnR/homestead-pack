@@ -1,0 +1,12 @@
+name = "Configured"
+filename = "configured-fabric-1.20.1-2.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5180/902/configured-fabric-1.20.1-2.2.3.jar"
+hash-format = "sha256"
+hash = "e48fa65de9e361facc8abf0c13b5dc3dcc4922d832c1e02cab39dc8b99285057"
+
+[update.curseforge]
+file-id = 5180902
+project-id = 457570

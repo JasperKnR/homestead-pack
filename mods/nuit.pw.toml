@@ -1,0 +1,12 @@
+name = "Nuit"
+filename = "fabricskyboxes-0.7.3+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4761/944/fabricskyboxes-0.7.3%2bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "277393ed2df9c0418ab0af23e7c4213bb08b71d139c022d38ca3ead93235ec35"
+
+[update.curseforge]
+file-id = 4761944
+project-id = 408209

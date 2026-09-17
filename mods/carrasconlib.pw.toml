@@ -1,0 +1,12 @@
+name = "CarrasconLib"
+filename = "carrasconlib-fabric-1.20.1-0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6289/992/carrasconlib-fabric-1.20.1-0.1.jar"
+hash-format = "sha256"
+hash = "01d3eaf911b50bf8e7cd35eb2a9df5bc27f0cb06358aab98bff2e257a86a65dc"
+
+[update.curseforge]
+file-id = 6289992
+project-id = 1215789

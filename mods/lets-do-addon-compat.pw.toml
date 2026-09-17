@@ -1,0 +1,12 @@
+name = "[Let's Do Addon] Compat"
+filename = "letsdocompat-fabric-2.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7041/984/letsdocompat-fabric-2.2.4.jar"
+hash-format = "sha256"
+hash = "2afe15a6a87d1513e9dfbbff6c25efa78ab142fd80f121c2a77ebcf1364c97f5"
+
+[update.curseforge]
+file-id = 7041984
+project-id = 992333

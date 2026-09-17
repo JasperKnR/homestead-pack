@@ -1,0 +1,12 @@
+name = "VillagersPlus (Fabric/Neoforge)"
+filename = "VillagersPlus_3.1_(FABRIC)_for_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4996/993/VillagersPlus_3.1_(FABRIC)_for_1.20.1.jar"
+hash-format = "sha256"
+hash = "f86abec4f7960b277492ae2d66d0a0eb164cfe3f46af4088380b7eab7b3b6122"
+
+[update.curseforge]
+file-id = 4996993
+project-id = 809542

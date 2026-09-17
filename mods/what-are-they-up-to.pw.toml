@@ -1,0 +1,12 @@
+name = "What Are They Up To (Watut)"
+filename = "watut-fabric-1.20.1-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6315/235/watut-fabric-1.20.1-1.2.3.jar"
+hash-format = "sha256"
+hash = "1f3da9141ca583b1bcc706e9826aa79d788b2b0c59202508c596526dc1016e67"
+
+[update.curseforge]
+file-id = 6315235
+project-id = 945479

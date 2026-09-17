@@ -1,0 +1,12 @@
+name = "Lithium (Fabric/NeoForge)"
+filename = "lithium-fabric-mc1.20.1-0.11.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7268/114/lithium-fabric-mc1.20.1-0.11.4.jar"
+hash-format = "sha256"
+hash = "76133efe92aea907cf75562d9e26517deb170e2580e1ecd4979da2c8902de782"
+
+[update.curseforge]
+file-id = 7268114
+project-id = 360438

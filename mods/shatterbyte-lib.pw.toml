@@ -1,0 +1,12 @@
+name = "ShatterLib | OctoLib"
+filename = "OctoLib-FABRIC-0.5.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6274/626/OctoLib-FABRIC-0.5.0.1%2b1.20.1.jar"
+hash-format = "sha256"
+hash = "cfa75c8b7ca08a175332ea66a427e95748389de019a6fcf7fc5852b104ffcc51"
+
+[update.curseforge]
+file-id = 6274626
+project-id = 916747

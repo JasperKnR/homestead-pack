@@ -1,0 +1,12 @@
+name = "Inventory HUD+"
+filename = "inventoryhud.fabric.1.20.1-3.4.26.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/5639/959/inventoryhud.fabric.1.20.1-3.4.26.jar"
+hash-format = "sha256"
+hash = "82a89cb2e004f9bf2c271ecb4a9e942bb79ddf71ca912184da438eb0538ff522"
+
+[update.curseforge]
+file-id = 5639959
+project-id = 357540

@@ -1,0 +1,12 @@
+name = "MCPitanLib"
+filename = "mcpitanlib-3.6.8-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8030/639/mcpitanlib-3.6.8-1.20.1-fabric.jar"
+hash-format = "sha256"
+hash = "f01660a2fabeb9ede59346779a9cbf81f75498f0ce4b587534b9df29ae0e985b"
+
+[update.curseforge]
+file-id = 8030639
+project-id = 682213

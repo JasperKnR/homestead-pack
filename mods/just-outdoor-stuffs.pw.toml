@@ -1,0 +1,12 @@
+name = "Just Outdoor Stuffs"
+filename = "JustOutdoorStuffs-1.20.1-fabric-v1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4693/387/JustOutdoorStuffs-1.20.1-fabric-v1.0.2.jar"
+hash-format = "sha256"
+hash = "9708b1eadbde03c26697b85826d6706b351cae7474bf8a7b91b59ceac81cae69"
+
+[update.curseforge]
+file-id = 4693387
+project-id = 896219

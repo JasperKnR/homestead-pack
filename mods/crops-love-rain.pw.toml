@@ -1,0 +1,12 @@
+name = "Crops Love Rain"
+filename = "crops_love_rain-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4632/294/crops_love_rain-1.4.0.jar"
+hash-format = "sha256"
+hash = "91078f183a88e1ff7a5a7b57bfd8ba1fdef54e3a0465b47f8949c86de79d6afa"
+
+[update.curseforge]
+file-id = 4632294
+project-id = 580294

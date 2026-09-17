@@ -1,0 +1,12 @@
+name = "No Animal Tempt Delay"
+filename = "noanimaltemptdelay-1.20.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5572/189/noanimaltemptdelay-1.20.1-1.2.jar"
+hash-format = "sha256"
+hash = "4532a4fe4d9afb481215731f940306b5995da49dbd13a4122dbf90035e60d3fe"
+
+[update.curseforge]
+file-id = 5572189
+project-id = 952356

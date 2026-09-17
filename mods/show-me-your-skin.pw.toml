@@ -1,0 +1,12 @@
+name = "Show Me Your Skin! (Hide armor)"
+filename = "show-me-your-skin-1.9.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5276/58/show-me-your-skin-1.9.0%2b1.20.jar"
+hash-format = "sha256"
+hash = "7145f140d00c7d58bf73fb2d1cd161d22df450aa1cc87a136df51fdc1192b100"
+
+[update.curseforge]
+file-id = 5276058
+project-id = 622010

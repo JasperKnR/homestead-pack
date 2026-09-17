@@ -1,0 +1,12 @@
+name = "Respect My Trims"
+filename = "respectmytrims-1.0.0+mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6580/471/respectmytrims-1.0.0%2bmc1.20.jar"
+hash-format = "sha256"
+hash = "8334bc04be9ecfd79f1dae6561447f0efa2efa7f832ca5fdf4540dd9d56e0a5d"
+
+[update.curseforge]
+file-id = 6580471
+project-id = 1264714

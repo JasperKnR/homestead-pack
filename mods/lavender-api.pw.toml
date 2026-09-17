@@ -1,0 +1,12 @@
+name = "Lavender API"
+filename = "lavender-0.1.9+1.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5353/373/lavender-0.1.9%2b1.20.jar"
+hash-format = "sha256"
+hash = "3f0329a0f7133ed2d854a6a739de1ecbc93c1b563f00c911243689b912a96795"
+
+[update.curseforge]
+file-id = 5353373
+project-id = 962916

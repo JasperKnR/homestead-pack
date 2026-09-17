@@ -1,0 +1,12 @@
+name = "Mythic Upgrades"
+filename = "mythicupgrades-4.2.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5700/925/mythicupgrades-4.2.0%2bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "7a2c95129d7375f67ee9f0f3c848d6a7d055df17a7acc32f2bba86c1ad049599"
+
+[update.curseforge]
+file-id = 5700925
+project-id = 663567

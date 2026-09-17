@@ -1,0 +1,12 @@
+name = "Collective"
+filename = "collective-1.20.1-8.22.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8021/348/collective-1.20.1-8.22.jar"
+hash-format = "sha256"
+hash = "f5266d805601c540baa1a908387b71b674fe967337226cf1b9d3e0aceba36cee"
+
+[update.curseforge]
+file-id = 8021348
+project-id = 342584

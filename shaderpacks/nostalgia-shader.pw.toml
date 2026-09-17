@@ -1,0 +1,12 @@
+name = "Nostalgia Shader"
+filename = "Nostalgia_v5.1.zip"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/6247/535/Nostalgia_v5.1.zip"
+hash-format = "sha256"
+hash = "7d7211af2fac6d9b3c7fcbaad7a47f1a612450376d14383088908831c18b6cc8"
+
+[update.curseforge]
+file-id = 6247535
+project-id = 326302

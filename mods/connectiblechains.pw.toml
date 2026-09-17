@@ -1,0 +1,12 @@
+name = "Connectible Chains [Fabric]"
+filename = "connectiblechains-2.5.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7148/381/connectiblechains-2.5.5%2b1.20.1.jar"
+hash-format = "sha256"
+hash = "eff9a1c91a9855f26d9b75a42f39c6994ec806fd8ce91d1f74763a2a2f9fb595"
+
+[update.curseforge]
+file-id = 7148381
+project-id = 415681

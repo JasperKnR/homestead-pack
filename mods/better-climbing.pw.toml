@@ -1,0 +1,12 @@
+name = "Better Climbing"
+filename = "better_climbing-fabric-3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4589/736/better_climbing-fabric-3.jar"
+hash-format = "sha256"
+hash = "5a5edf3769d375bb04782cd42364bf86beff74fc253676bdb86065420cf27379"
+
+[update.curseforge]
+file-id = 4589736
+project-id = 655619

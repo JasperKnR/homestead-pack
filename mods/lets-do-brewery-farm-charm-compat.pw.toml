@@ -1,0 +1,12 @@
+name = "[Let's Do] Brewery - Farm&Charm Compat"
+filename = "letsdo-brewery-fabric-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6847/828/letsdo-brewery-fabric-2.0.6.jar"
+hash-format = "sha256"
+hash = "47ac54794103c46c7f25c9172d7d1765237b10794a279c13faf1e0c432e68386"
+
+[update.curseforge]
+file-id = 6847828
+project-id = 1038106

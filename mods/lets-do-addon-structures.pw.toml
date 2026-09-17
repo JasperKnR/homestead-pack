@@ -1,0 +1,12 @@
+name = "[Let's Do Addon] Structures"
+filename = "letsdo-addon-structures-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6533/556/letsdo-addon-structures-1.7.2.jar"
+hash-format = "sha256"
+hash = "58dacc74b4703fc8f9508376964f82d2cf0a654c4f00e954426e25175f2775f3"
+
+[update.curseforge]
+file-id = 6533556
+project-id = 967867

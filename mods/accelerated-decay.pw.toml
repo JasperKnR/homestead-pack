@@ -1,0 +1,12 @@
+name = "Accelerated Decay"
+filename = "accelerated-decay-fabric-3.0.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4863/305/accelerated-decay-fabric-3.0.1%2bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "094f49fd6b4878c8324499ef152d66a2cace4ab4cdefb6ed0a8847ff4ffe072d"
+
+[update.curseforge]
+file-id = 4863305
+project-id = 699872

@@ -1,0 +1,12 @@
+name = "Macaw's Holidays"
+filename = "mcw-holidays-1.1.2-mc1.20.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7304/403/mcw-holidays-1.1.2-mc1.20.1fabric.jar"
+hash-format = "sha256"
+hash = "6550644fb00215d70456be4ad6e6a2192b246f39c944ac921c6968baf8296097"
+
+[update.curseforge]
+file-id = 7304403
+project-id = 930232

@@ -1,0 +1,12 @@
+name = "Create: Copycats+"
+filename = "copycats-3.0.7+mc.1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7634/683/copycats-3.0.7%2bmc.1.20.1-fabric.jar"
+hash-format = "sha256"
+hash = "9e7ef992fe54a41e864d4b78d0a41091f09e88dcc3b2772b611377b0938c6e42"
+
+[update.curseforge]
+file-id = 7634683
+project-id = 968398

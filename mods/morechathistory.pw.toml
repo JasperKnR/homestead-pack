@@ -1,0 +1,12 @@
+name = "More Chat History"
+filename = "morechathistory-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5065/345/morechathistory-1.3.0.jar"
+hash-format = "sha256"
+hash = "87dd00a8b62b10bed3bb201d5aaf220fd72a6d77ef284c1fc65ddb5e262d4c8c"
+
+[update.curseforge]
+file-id = 5065345
+project-id = 518319

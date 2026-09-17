@@ -1,0 +1,12 @@
+name = "Faux Custom Entity Data"
+filename = "FauxCustomEntityData-fabric-1.20.1-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4607/750/FauxCustomEntityData-fabric-1.20.1-6.0.1.jar"
+hash-format = "sha256"
+hash = "e46350f4769d53647fc1371f65a2a39ad7bc3c552423c4e42a06804eb6f40049"
+
+[update.curseforge]
+file-id = 4607750
+project-id = 575305

@@ -1,0 +1,12 @@
+name = "Presence Footsteps"
+filename = "PresenceFootsteps-1.10.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/5956/100/PresenceFootsteps-1.10.1%2b1.20.1.jar"
+hash-format = "sha256"
+hash = "70f354e5ecd8993908601fcdfcb4e98f7b81f42192287282a5b86712e9a6be95"
+
+[update.curseforge]
+file-id = 5956100
+project-id = 334259

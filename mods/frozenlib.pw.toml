@@ -1,0 +1,12 @@
+name = "FrozenLib"
+filename = "FrozenLib-1.9.3-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5876/579/FrozenLib-1.9.3-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "2fb831d9da0f5ef0dcefc36412f3784081e2070a984aefc076010800c7b622b6"
+
+[update.curseforge]
+file-id = 5876579
+project-id = 709773

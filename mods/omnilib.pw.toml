@@ -1,0 +1,12 @@
+name = "Omnilib"
+filename = "omnilib-0.1.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6020/868/omnilib-0.1.4%2b1.20.1.jar"
+hash-format = "sha256"
+hash = "01050cf5fbc116c51f107d91e1765d8ef15156b6df8a610aa005cfc803707dd7"
+
+[update.curseforge]
+file-id = 6020868
+project-id = 1155302

@@ -1,0 +1,12 @@
+name = "Amendments"
+filename = "amendments-1.20-2.2.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7470/400/amendments-1.20-2.2.5-fabric.jar"
+hash-format = "sha256"
+hash = "2324ed590eb33884eb9153a8f893030bfd9f194406579e18968391eb094e1341"
+
+[update.curseforge]
+file-id = 7470400
+project-id = 896746

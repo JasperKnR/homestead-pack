@@ -1,0 +1,12 @@
+name = "Hearth & Home"
+filename = "hearth_and_home-fabric-1.20.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5310/270/hearth_and_home-fabric-1.20.1-2.0.3.jar"
+hash-format = "sha256"
+hash = "772066b64640ec64fc360fc82200234869296f5bb4f77497370e581b3b834241"
+
+[update.curseforge]
+file-id = 5310270
+project-id = 849364

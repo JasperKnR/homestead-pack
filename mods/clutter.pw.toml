@@ -1,0 +1,12 @@
+name = "Clutter"
+filename = "clutter-1.20-0.6.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7361/352/clutter-1.20-0.6.2.jar"
+hash-format = "sha256"
+hash = "677f96aca1ce52f479e052ae5bcdc005c28dbcbfd61ccf1c2d38cc99def47c54"
+
+[update.curseforge]
+file-id = 7361352
+project-id = 826060

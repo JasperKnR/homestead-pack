@@ -1,0 +1,12 @@
+name = "Nature's Delight"
+filename = "naturesdelight-1.12-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7117/528/naturesdelight-1.12-1.20.1.jar"
+hash-format = "sha256"
+hash = "0ce282f0fa3178c7d6145252e3c73d7381c431358e5a351e8b14dd581ce6a898"
+
+[update.curseforge]
+file-id = 7117528
+project-id = 1082132

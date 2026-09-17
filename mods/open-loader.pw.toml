@@ -1,0 +1,12 @@
+name = "Open Loader"
+filename = "OpenLoader-Fabric-1.20.1-19.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7613/220/OpenLoader-Fabric-1.20.1-19.0.5.jar"
+hash-format = "sha256"
+hash = "e87f1bef7a4ade22e0095e7fc7a0f11f9eccab3e38e8196d52c95e30cfe80230"
+
+[update.curseforge]
+file-id = 7613220
+project-id = 354339

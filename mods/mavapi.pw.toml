@@ -1,0 +1,12 @@
+name = "More Axolotl Variants API"
+filename = "mavapi-1.1.4-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5240/476/mavapi-1.1.4-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "4b4948fe9af6c9d94f1d27f0957beea0d855ca92cfe370170664c2ebaef62311"
+
+[update.curseforge]
+file-id = 5240476
+project-id = 709964

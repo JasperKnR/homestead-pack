@@ -1,0 +1,12 @@
+name = "Let Me Despawn"
+filename = "letmedespawn-1.20.x-fabric-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6311/225/letmedespawn-1.20.x-fabric-1.5.0.jar"
+hash-format = "sha256"
+hash = "6fa924944e2adf5f6fabc7b29980c1ec6bbe02cb58646f32e544d066e91e8593"
+
+[update.curseforge]
+file-id = 6311225
+project-id = 663477

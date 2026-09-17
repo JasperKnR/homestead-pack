@@ -1,0 +1,12 @@
+name = "FTB Library (Fabric)"
+filename = "ftb-library-fabric-2001.2.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6164/52/ftb-library-fabric-2001.2.9.jar"
+hash-format = "sha256"
+hash = "08e80107ae3f73c6608bece1f5a8e487031b5baf37a8f5d266928bd5cc1652ce"
+
+[update.curseforge]
+file-id = 6164052
+project-id = 438495

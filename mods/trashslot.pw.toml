@@ -1,0 +1,12 @@
+name = "TrashSlot"
+filename = "trashslot-fabric-1.20.1-15.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8019/425/trashslot-fabric-1.20.1-15.1.5.jar"
+hash-format = "sha256"
+hash = "bbcefa6baf13ae117c4a136d7ff66b625c7540b9dcc0d4077b4f237085ee4408"
+
+[update.curseforge]
+file-id = 8019425
+project-id = 235577

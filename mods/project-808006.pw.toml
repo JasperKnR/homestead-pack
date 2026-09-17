@@ -1,0 +1,12 @@
+name = "project-808006"
+filename = "tia-1.20-1.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/4601/397/tia-1.20-1.1-fabric.jar"
+hash-format = "sha256"
+hash = "ebf631eb18c66dd796f85627d61aa4d9da5efd180a29d49258422ae88d0eb918"
+
+[update.curseforge]
+file-id = 4601397
+project-id = 808006

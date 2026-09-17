@@ -1,0 +1,12 @@
+name = "Beautify: Refabricated"
+filename = "beautify-2.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7554/172/beautify-2.0.0%2b1.20.1.jar"
+hash-format = "sha256"
+hash = "fdbc81a7d519fcd05616ef6acd24727a4d6d2e320be48d32015c68d956ef8454"
+
+[update.curseforge]
+file-id = 7554172
+project-id = 809311

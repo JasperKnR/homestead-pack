@@ -1,0 +1,12 @@
+name = "ModMenu Badges Lib"
+filename = "modmenu-badges-lib-2023.6.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/4758/379/modmenu-badges-lib-2023.6.1.jar"
+hash-format = "sha256"
+hash = "12af314796682fb98e19105d91c58ae9798e3c19173410e0729b751477cc953d"
+
+[update.curseforge]
+file-id = 4758379
+project-id = 914586

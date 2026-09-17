@@ -1,0 +1,12 @@
+name = "Data Anchor"
+filename = "Data_Anchor-fabric-1.20.1-1.0.0.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7256/553/Data_Anchor-fabric-1.20.1-1.0.0.20.jar"
+hash-format = "sha256"
+hash = "275f0737e5770f79d5816a258f3de4b7cf7c6eaa025ab01c148e9fcaefc9b9a5"
+
+[update.curseforge]
+file-id = 7256553
+project-id = 1203668

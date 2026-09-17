@@ -1,0 +1,12 @@
+name = "Show Me What You Got"
+filename = "ShowMeWhatYouGot-1.20-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4631/405/ShowMeWhatYouGot-1.20-1.1.1.jar"
+hash-format = "sha256"
+hash = "e2149f73148e4fff866800225db121088178252c468894f65cc5c628e2e68ac8"
+
+[update.curseforge]
+file-id = 4631405
+project-id = 564941

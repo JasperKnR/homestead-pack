@@ -1,0 +1,13 @@
+name = "Homestead SMP"
+author = "Jasper"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "465a1f178727f2a002358de1d4d0b625f60abbb054a6e55c33c938f7f6d05afc"
+
+[versions]
+minecraft = "1.20.1"
+fabric = "0.18.4"

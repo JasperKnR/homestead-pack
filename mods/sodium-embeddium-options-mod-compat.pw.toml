@@ -1,0 +1,12 @@
+name = "Sodium/Embeddium Options Mod Compat"
+filename = "sodiumoptionsmodcompat-fabric-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6929/973/sodiumoptionsmodcompat-fabric-1.0.0-1.20.1.jar"
+hash-format = "sha256"
+hash = "11d29ae7caaad6bec7ea9999e9fc0783363c2d5be523df81bfbaaad1fd6760c2"
+
+[update.curseforge]
+file-id = 6929973
+project-id = 1146393

@@ -1,0 +1,12 @@
+name = "Farmer's Knives"
+filename = "farmersknives-3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5281/259/farmersknives-3.2.jar"
+hash-format = "sha256"
+hash = "807b1bea8921fd9350832150d5ae06b84c7bec9d7eaa5bc0401e0d39d1e506a9"
+
+[update.curseforge]
+file-id = 5281259
+project-id = 628972

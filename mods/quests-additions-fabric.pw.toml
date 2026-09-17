@@ -1,0 +1,12 @@
+name = "Quests Additions (Fabric)"
+filename = "questsadditions-fabric-1.20.1-1.4.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5698/979/questsadditions-fabric-1.20.1-1.4.6.jar"
+hash-format = "sha256"
+hash = "67ca16130266e1d53973c4ae32e7354de4d2da7814aede0e1b373590d82ce349"
+
+[update.curseforge]
+file-id = 5698979
+project-id = 580136

@@ -1,0 +1,12 @@
+name = "GamerzDEV Loading screen deleter"
+filename = "forcecloseloadingscreen-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4751/767/forcecloseloadingscreen-2.1.1.jar"
+hash-format = "sha256"
+hash = "0ef803a80eab2db985cb9a2e8520d474e4199dd1506f6f96421334eb1275e342"
+
+[update.curseforge]
+file-id = 4751767
+project-id = 913033

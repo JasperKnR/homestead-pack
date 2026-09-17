@@ -1,0 +1,12 @@
+name = "Log Cleaner"
+filename = "logcleaner-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3995/206/logcleaner-1.0.0.jar"
+hash-format = "sha256"
+hash = "ddd524aa21ed0053f149f45b8cc6212c1be718c65aef96db88a4f0354c61e798"
+
+[update.curseforge]
+file-id = 3995206
+project-id = 667884

@@ -1,0 +1,12 @@
+name = "Debugify"
+filename = "Debugify-1.20.1+2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4632/961/Debugify-1.20.1%2b2.0.jar"
+hash-format = "sha256"
+hash = "c61b78a7609c989578e98837047bc026d32654a0ad55f9118bb35f295536949d"
+
+[update.curseforge]
+file-id = 4632961
+project-id = 596224

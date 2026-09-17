@@ -1,0 +1,12 @@
+name = "(ARCHIVE) Faster Random"
+filename = "fasterrandom-5.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5559/269/fasterrandom-5.1.0.jar"
+hash-format = "sha256"
+hash = "40b326e9c98610b54be67751e618193e671cc907240d94a57085259b10cedf08"
+
+[update.curseforge]
+file-id = 5559269
+project-id = 912121

@@ -1,0 +1,12 @@
+name = "Puzzle"
+filename = "puzzle-fabric-2.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7253/376/puzzle-fabric-2.2.0%2b1.20.1.jar"
+hash-format = "sha256"
+hash = "b053ef8347a531c023abe32bd83eb7117911a28251a109d55cdedcef7601690f"
+
+[update.curseforge]
+file-id = 7253376
+project-id = 563977

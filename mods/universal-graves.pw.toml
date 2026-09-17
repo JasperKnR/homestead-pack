@@ -1,0 +1,12 @@
+name = "Universal Graves"
+filename = "graves-3.0.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5706/124/graves-3.0.3%2b1.20.1.jar"
+hash-format = "sha256"
+hash = "d606625c99a4e9becf743bf9d889aa1b9d65cce92ceedd158cb33169c695c46f"
+
+[update.curseforge]
+file-id = 5706124
+project-id = 497175

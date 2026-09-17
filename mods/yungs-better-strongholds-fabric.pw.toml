@@ -1,0 +1,12 @@
+name = "YUNG's Better Strongholds (Fabric)"
+filename = "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4769/84/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
+hash-format = "sha256"
+hash = "122b74d59629bf755663263a4ce43e58a5d13b74e67bea332d44a9bedb51b74a"
+
+[update.curseforge]
+file-id = 4769084
+project-id = 480684

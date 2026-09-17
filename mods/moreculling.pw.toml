@@ -1,0 +1,12 @@
+name = "MoreCulling"
+filename = "moreculling-1.20.1-0.24.5.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7552/138/moreculling-1.20.1-0.24.5.jar"
+hash-format = "sha256"
+hash = "23b2e5f25f0f250e3c359c3f1478289430ab99347e04176e8ea51a247cda3210"
+
+[update.curseforge]
+file-id = 7552138
+project-id = 630104

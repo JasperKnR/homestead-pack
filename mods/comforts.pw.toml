@@ -1,0 +1,12 @@
+name = "Comforts"
+filename = "comforts-fabric-6.4.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5503/514/comforts-fabric-6.4.0%2b1.20.1.jar"
+hash-format = "sha256"
+hash = "f9852a749b5154cbb0e97651cd0a1718382fcdfebdea86813bb118b16ee1096b"
+
+[update.curseforge]
+file-id = 5503514
+project-id = 276951

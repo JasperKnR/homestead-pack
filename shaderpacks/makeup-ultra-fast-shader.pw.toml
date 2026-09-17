@@ -1,0 +1,12 @@
+name = "MakeUp - Ultra Fast | Shaders"
+filename = "MakeUp-UltraFast-9.4b.zip"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7520/157/MakeUp-UltraFast-9.4b.zip"
+hash-format = "sha256"
+hash = "6087e97d65d1ea2b725298e602971f1d2a4fb96bb94ad825cdfe02c3368beee9"
+
+[update.curseforge]
+file-id = 7520157
+project-id = 431203

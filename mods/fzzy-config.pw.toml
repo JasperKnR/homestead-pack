@@ -1,0 +1,12 @@
+name = "Fzzy Config"
+filename = "fzzy_config-0.7.6+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7568/944/fzzy_config-0.7.6%2b1.20.1.jar"
+hash-format = "sha256"
+hash = "faa76d1ad670041d88cebd4eeda8e804bcd99289e755336fc1df4a066cfdbc8c"
+
+[update.curseforge]
+file-id = 7568944
+project-id = 1005914

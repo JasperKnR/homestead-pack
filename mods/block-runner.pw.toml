@@ -1,0 +1,12 @@
+name = "Block Runner"
+filename = "BlockRunner-v8.0.4-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5157/21/BlockRunner-v8.0.4-1.20.1-Fabric.jar"
+hash-format = "sha256"
+hash = "f29102144a7099f7747f81dbaf1498bcec4893060b023d38c645cb40baeb833a"
+
+[update.curseforge]
+file-id = 5157021
+project-id = 442842

@@ -1,0 +1,12 @@
+name = "Particle Rain"
+filename = "particlerain-4.0.0-beta.10+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8055/420/particlerain-4.0.0-beta.10%2b1.20.1-fabric.jar"
+hash-format = "sha256"
+hash = "8c027a37a828fd0cf6e11ce5419c213d3716796807d75ff2244ac79be523ca91"
+
+[update.curseforge]
+file-id = 8055420
+project-id = 421897

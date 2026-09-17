@@ -1,0 +1,12 @@
+name = "FastQuit"
+filename = "fastquit-3.0.0+1.20+.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/4739/523/fastquit-3.0.0%2b1.20%2b.jar"
+hash-format = "sha256"
+hash = "6c07d505a7c7435c9813edf68103c8320e37c20daf95418d508aac2681212a78"
+
+[update.curseforge]
+file-id = 4739523
+project-id = 708967

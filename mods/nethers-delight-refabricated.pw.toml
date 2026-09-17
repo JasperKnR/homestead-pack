@@ -1,0 +1,12 @@
+name = "Nether's Delight Refabricated"
+filename = "NethersDelight-Refabricated-1.20.1-4.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5336/735/NethersDelight-Refabricated-1.20.1-4.1.1.jar"
+hash-format = "sha256"
+hash = "882c8fd92d7964f2314da6d4696190d451f8ed87db7726df06b9bc913776c9cb"
+
+[update.curseforge]
+file-id = 5336735
+project-id = 998782

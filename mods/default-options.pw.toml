@@ -1,0 +1,12 @@
+name = "Default Options"
+filename = "defaultoptions-fabric-1.20.1-18.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6972/468/defaultoptions-fabric-1.20.1-18.0.4.jar"
+hash-format = "sha256"
+hash = "9bcd3ae70a1007eb63344dca097088a697e37ecde9bb9648439e71396602ba31"
+
+[update.curseforge]
+file-id = 6972468
+project-id = 232131

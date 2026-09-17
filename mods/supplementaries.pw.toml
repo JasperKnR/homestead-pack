@@ -1,0 +1,12 @@
+name = "Supplementaries"
+filename = "supplementaries-1.20-3.1.43-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7884/612/supplementaries-1.20-3.1.43-fabric.jar"
+hash-format = "sha256"
+hash = "93b865c213f64ce7fdc74888b79048ff3002434db5adb0af3b6d5bcad58f7b5d"
+
+[update.curseforge]
+file-id = 7884612
+project-id = 412082

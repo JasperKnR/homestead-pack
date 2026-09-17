@@ -1,0 +1,12 @@
+name = "CraterLib"
+filename = "CraterLib-Fabric-1.20-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7949/711/CraterLib-Fabric-1.20-3.1.1.jar"
+hash-format = "sha256"
+hash = "a73092ce494fa3270ef5370684fe9a6a395d260f61be9523382ef4de82a2afbc"
+
+[update.curseforge]
+file-id = 7949711
+project-id = 867099

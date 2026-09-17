@@ -1,0 +1,12 @@
+name = "MmmMmmMmmMmm (Target Dummy)"
+filename = "dummmmmmy-1.20-2.0.12-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7963/207/dummmmmmy-1.20-2.0.12-fabric.jar"
+hash-format = "sha256"
+hash = "95706ca201a123d41330dc35f526bff4babf76c5b5b4c60fc0bd936ea12c1172"
+
+[update.curseforge]
+file-id = 7963207
+project-id = 225738

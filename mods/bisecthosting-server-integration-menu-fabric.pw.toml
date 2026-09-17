@@ -1,0 +1,12 @@
+name = "BisectHosting Server Integration Menu [FABRIC]"
+filename = "BHMenu-Fabric-1.20.1-2.4.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7205/249/BHMenu-Fabric-1.20.1-2.4.2.jar"
+hash-format = "sha256"
+hash = "f28a021a0b433eb5ab97ac98deba35468f02ef61cec87618341f2fc3a57ec60f"
+
+[update.curseforge]
+file-id = 7205249
+project-id = 585548

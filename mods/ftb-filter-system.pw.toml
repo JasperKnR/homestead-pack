@@ -1,0 +1,12 @@
+name = "FTB Filter System"
+filename = "ftb-filter-system-fabric-20.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6466/152/ftb-filter-system-fabric-20.0.1.jar"
+hash-format = "sha256"
+hash = "51892e2e9462966cbc93644efd5e3be18d457ce021360fe35dca06ce42db5420"
+
+[update.curseforge]
+file-id = 6466152
+project-id = 943925

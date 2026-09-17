@@ -1,0 +1,12 @@
+name = "Starter Kit"
+filename = "starterkit-1.20.1-8.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8020/899/starterkit-1.20.1-8.0.jar"
+hash-format = "sha256"
+hash = "cae7cc58d2ba5a277834f5194e090186db01804bccfe947ab4340bd260659b61"
+
+[update.curseforge]
+file-id = 8020899
+project-id = 390717

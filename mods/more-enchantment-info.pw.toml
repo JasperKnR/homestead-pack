@@ -1,0 +1,12 @@
+name = "More Enchantment Info"
+filename = "more-enchantment-info-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6115/805/more-enchantment-info-0.2.0.jar"
+hash-format = "sha256"
+hash = "b39299f1592917eab89612c8db80767d3772faf6ac23cee3fcba69aa97618f9e"
+
+[update.curseforge]
+file-id = 6115805
+project-id = 1166503

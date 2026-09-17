@@ -1,0 +1,12 @@
+name = "Create Fabric"
+filename = "create-fabric-6.0.8.1+build.1744-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7286/603/create-fabric-6.0.8.1%2bbuild.1744-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "a613603fb08d967c5a4138d1adb7374c4a347b91e489fe21579a4cff4f40105a"
+
+[update.curseforge]
+file-id = 7286603
+project-id = 624165

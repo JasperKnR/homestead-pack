@@ -1,0 +1,12 @@
+name = "Explorer's Compass"
+filename = "ExplorersCompass-1.20.1-2.6.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7892/929/ExplorersCompass-1.20.1-2.6.0-fabric.jar"
+hash-format = "sha256"
+hash = "1d983c60262329c062acd2a191c3b5d4fcd5405c032a87609d18ab0d22851f07"
+
+[update.curseforge]
+file-id = 7892929
+project-id = 491794

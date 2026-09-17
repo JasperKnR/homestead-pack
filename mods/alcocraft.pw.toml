@@ -1,0 +1,12 @@
+name = "AlcoCraft+"
+filename = "alcocraftplus-1.20-2.1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7007/608/alcocraftplus-1.20-2.1.0-fabric.jar"
+hash-format = "sha256"
+hash = "d551037847b838c36c77bb3c6fa08be71d25d13765376e82d36dd2fd646eb43b"
+
+[update.curseforge]
+file-id = 7007608
+project-id = 847059

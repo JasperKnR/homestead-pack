@@ -1,0 +1,12 @@
+name = "YUNG's Better End Island (Fabric)"
+filename = "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5193/816/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar"
+hash-format = "sha256"
+hash = "8e6183a380c17677d23d5d7790d04bf18589ed12867460ece32327e8765046fa"
+
+[update.curseforge]
+file-id = 5193816
+project-id = 901350

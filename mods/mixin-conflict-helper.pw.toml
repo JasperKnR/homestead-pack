@@ -1,0 +1,12 @@
+name = "Mixin Conflict Helper"
+filename = "MixinConflictHelper-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3942/300/MixinConflictHelper-1.2.0.jar"
+hash-format = "sha256"
+hash = "4d6337d2220d6c26581352f25a2b4eebc0717bd3731fbcd1865e2277dee604ba"
+
+[update.curseforge]
+file-id = 3942300
+project-id = 643052

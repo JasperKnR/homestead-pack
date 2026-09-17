@@ -1,0 +1,12 @@
+name = "[Deprecated] Farmer's Delight [Fabric]"
+filename = "farmers-delight-fabric-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4939/709/farmers-delight-fabric-1.4.3.jar"
+hash-format = "sha256"
+hash = "ea9d91b0a9d5d03abe8388d6e6af429baefe1da2ecc95753b045cea5bd6ed98a"
+
+[update.curseforge]
+file-id = 4939709
+project-id = 482834

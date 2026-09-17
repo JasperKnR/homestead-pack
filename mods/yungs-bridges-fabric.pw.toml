@@ -1,0 +1,12 @@
+name = "YUNG's Bridges (Fabric)"
+filename = "YungsBridges-1.20-Fabric-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4769/520/YungsBridges-1.20-Fabric-4.0.3.jar"
+hash-format = "sha256"
+hash = "9a4548727fd22fd06efa5a70b4bda0231249be107aa5b91acc615981d558ebb0"
+
+[update.curseforge]
+file-id = 4769520
+project-id = 590988

@@ -1,0 +1,12 @@
+name = "Chef's Delight [Fabric] - Farmer's Delight Villagers"
+filename = "chefs-delight-1.0.4-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7335/194/chefs-delight-1.0.4-fabric-1.20.1.jar"
+hash-format = "sha256"
+hash = "ce806d8939d121a650975aa6b9dad9591ea927371e494fab9b54a1bd9f32f54f"
+
+[update.curseforge]
+file-id = 7335194
+project-id = 736986

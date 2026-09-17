@@ -1,0 +1,12 @@
+name = "Sawmill"
+filename = "sawmill-1.20-1.4.10-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6948/520/sawmill-1.20-1.4.10-fabric.jar"
+hash-format = "sha256"
+hash = "7f806ed4d323e931604fc480a95f1586e6be192aaee2786d086708f540a19dcf"
+
+[update.curseforge]
+file-id = 6948520
+project-id = 964817

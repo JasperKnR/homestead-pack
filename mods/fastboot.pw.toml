@@ -1,0 +1,12 @@
+name = "FastBoot"
+filename = "fastboot-1.20.x-1.2fabric.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/5986/39/fastboot-1.20.x-1.2fabric.jar"
+hash-format = "sha256"
+hash = "883e531ab6bba35d80ca5168995305f2d1a7da71f0e673c83bcd9b294b6f1d28"
+
+[update.curseforge]
+file-id = 5986039
+project-id = 1030285

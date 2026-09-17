@@ -1,0 +1,12 @@
+name = "Iris Shaders"
+filename = "iris-1.7.6+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/6258/195/iris-1.7.6%2bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5"
+
+[update.curseforge]
+file-id = 6258195
+project-id = 455508

@@ -1,0 +1,12 @@
+name = "Camerapture"
+filename = "Camerapture-1.10.12+mc1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7519/88/Camerapture-1.10.12%2bmc1.20.1-fabric.jar"
+hash-format = "sha256"
+hash = "7f7894302a51ce9d6bef370d5e9bd4e5dfbeb6c0d275ac43d712927429545593"
+
+[update.curseforge]
+file-id = 7519088
+project-id = 1051342

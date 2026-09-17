@@ -1,0 +1,12 @@
+name = "[Let's Do] API "
+filename = "letsdo-API-fabric-1.2.15-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5468/180/letsdo-API-fabric-1.2.15-fabric.jar"
+hash-format = "sha256"
+hash = "fdf4208313555faa7af4ec7bf3bfb9eaf790f2924e442d6d28801ae05883325e"
+
+[update.curseforge]
+file-id = 5468180
+project-id = 864599

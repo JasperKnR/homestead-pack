@@ -1,0 +1,12 @@
+name = "Fabric Language Kotlin"
+filename = "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7976/268/fabric-language-kotlin-1.13.11%2bkotlin.2.3.21.jar"
+hash-format = "sha256"
+hash = "c35713ee1da70fde6bf0e9ed26f8e2baf0814e60eb993cd12acb940e57f4fd2f"
+
+[update.curseforge]
+file-id = 7976268
+project-id = 308769

@@ -1,0 +1,12 @@
+name = "Create: Steam 'n' Rails"
+filename = "Steam_Rails-1.7.2+fabric-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7758/638/Steam_Rails-1.7.2%2bfabric-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "a1204d76be4771778411c5def98ff3bcbe9869f12698ed9ce6795e93e6b49afe"
+
+[update.curseforge]
+file-id = 7758638
+project-id = 688231

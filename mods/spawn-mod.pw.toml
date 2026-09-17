@@ -1,0 +1,12 @@
+name = "Spawn"
+filename = "spawn-1.0.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4861/638/spawn-1.0.3-fabric.jar"
+hash-format = "sha256"
+hash = "4105e9cc177ffee6ab3a0be74724d920e69bd8c1631346df5b7931024713dad1"
+
+[update.curseforge]
+file-id = 4861638
+project-id = 935694

@@ -1,0 +1,12 @@
+name = "Subtle Effects"
+filename = "SubtleEffects-fabric-1.20.1-1.14.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8008/316/SubtleEffects-fabric-1.20.1-1.14.3.jar"
+hash-format = "sha256"
+hash = "53aa7bcf73dc766bf7b543d3555d04e107f05d93802a19138607b69fbaf60c58"
+
+[update.curseforge]
+file-id = 8008316
+project-id = 1023913

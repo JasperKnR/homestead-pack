@@ -1,0 +1,12 @@
+name = "Boat Item View"
+filename = "Boat-Item-View-Fabric-1.20.1-0.0.5.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/4590/983/Boat-Item-View-Fabric-1.20.1-0.0.5.jar"
+hash-format = "sha256"
+hash = "e38fb50cc1a26704ba0662e86518d1c436109cd6788e7cc035509b1f5ec12cba"
+
+[update.curseforge]
+file-id = 4590983
+project-id = 482160
