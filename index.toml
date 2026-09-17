@@ -6041,6 +6041,11 @@ file = "shaderpacks/EXTREME ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8
 hash = "a2d4593d6c5e609d07515ac72cb832d052515188d0601789d36b1c201c9d8452"
 
 [[files]]
+file = "servers.dat"
+hash = "40d5725433ca4afd51aba94a4418756a7e02f757af3b03722245a24b1adc0146"
+preserve = true
+
+[[files]]
 file = "shaderpacks/EXTREME ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6/.gitignore"
 hash = "b500a04cbe326ae1bcb2875daa125ccce2d930201138ba2c5ec4e51da6152303"
 

@@ -1,12 +1,12 @@
 name = "Homestead SMP"
 author = "Jasper"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "465a1f178727f2a002358de1d4d0b625f60abbb054a6e55c33c938f7f6d05afc"
+hash = "ac5207543e23a8ca2b39c1ac7b398d3ec04758ea35caf88d95b5ef460832f058"
 
 [versions]
 minecraft = "1.20.1"
