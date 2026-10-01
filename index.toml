@@ -7717,7 +7717,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "aca9f05a9cdf5963ba558edf474c4e499bcc848fb51596efab1a9eafeaa43fdc"
+hash = "74a08a26d3c502c4720763b55e26ce680c05da8a7c0bbf91c6e795fdca12baf6"
 preserve = true
 
 [[files]]

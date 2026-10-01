@@ -7,4 +7,4 @@ CurseForge "All the Mods 10: To the Sky" (ATM10SKY) 기반 비공개 서버용 p
 - 마인크래프트: 1.21.1
 - 모드로더: NeoForge 21.1.250
 - 팩 주소: https://jasperknr.github.io/homestead-pack/pack.toml
-- 서버 주소: Jasper20011.aternos.me
+- 서버 주소: 51.222.17.243:25568 (PebbleHost)
