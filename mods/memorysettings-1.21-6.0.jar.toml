@@ -1,0 +1,12 @@
+name = "Memory Settings"
+filename = "memorysettings-1.21-6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7934/534/memorysettings-1.21-6.0.jar"
+hash-format = "sha256"
+hash = "83721e70a8702b4389ca5d83daa5b30f55797561ee30d788cec2987b7ce3e042"
+
+[update.curseforge]
+file-id = 7934534
+project-id = 526901

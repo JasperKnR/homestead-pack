@@ -1,0 +1,12 @@
+name = "Integrated Crafting"
+filename = "integratedcrafting-1.21.1-neoforge-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8815/26/integratedcrafting-1.21.1-neoforge-1.6.0.jar"
+hash-format = "sha256"
+hash = "9f705ea9734a7ba4a3b62d67bac15ec15e3732357c625936248b9996e6f2d487"
+
+[update.curseforge]
+file-id = 8815026
+project-id = 287357

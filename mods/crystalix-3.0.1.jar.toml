@@ -1,0 +1,12 @@
+name = "Crystalix"
+filename = "crystalix-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8767/589/crystalix-3.0.1.jar"
+hash-format = "sha256"
+hash = "e6a5147acbf506ecb006b591267e4d14c5937e91423df9ce606375928255d426"
+
+[update.curseforge]
+file-id = 8767589
+project-id = 1187033

@@ -1,0 +1,12 @@
+name = "Simple Backups"
+filename = "SimpleBackups-1.21-4.0.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7151/913/SimpleBackups-1.21-4.0.21.jar"
+hash-format = "sha256"
+hash = "6568e13d8fe3e9105f4c47f9220dd32e57cb1caeaef3bb6feeb5923130a92293"
+
+[update.curseforge]
+file-id = 7151913
+project-id = 583228

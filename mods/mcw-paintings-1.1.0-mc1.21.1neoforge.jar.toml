@@ -1,0 +1,12 @@
+name = "Macaw's Paintings"
+filename = "mcw-paintings-1.1.0-mc1.21.1neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7845/33/mcw-paintings-1.1.0-mc1.21.1neoforge.jar"
+hash-format = "sha256"
+hash = "fddf73508f3c98cadd9b3c1fe08d792141eb3db7f89134cf313ed175c3ba031c"
+
+[update.curseforge]
+file-id = 7845033
+project-id = 438116

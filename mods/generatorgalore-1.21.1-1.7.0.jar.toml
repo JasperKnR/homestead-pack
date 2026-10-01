@@ -1,0 +1,12 @@
+name = "Generator Galore"
+filename = "generatorgalore-1.21.1-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8756/430/generatorgalore-1.21.1-1.7.0.jar"
+hash-format = "sha256"
+hash = "64cac6f13f16e21b37bbdd98b360e5533033297fdae4b92fe2c2d69a4f05d2d4"
+
+[update.curseforge]
+file-id = 8756430
+project-id = 691049

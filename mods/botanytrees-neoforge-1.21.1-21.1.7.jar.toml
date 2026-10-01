@@ -1,0 +1,12 @@
+name = "Botany Trees"
+filename = "botanytrees-neoforge-1.21.1-21.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8188/485/botanytrees-neoforge-1.21.1-21.1.7.jar"
+hash-format = "sha256"
+hash = "72060638703da61e868d5d52674c580a58ed68cfc80a99697d360f8ed0092678"
+
+[update.curseforge]
+file-id = 8188485
+project-id = 411357

@@ -1,0 +1,12 @@
+name = "Super Factory Manager Retro"
+filename = "retrofactorymanager-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8734/621/retrofactorymanager-1.21.1-1.0.3.jar"
+hash-format = "sha256"
+hash = "abec7f4e6afbd048ffaf86a02390097c43bc78a536c4f632aa684d8d99eb069a"
+
+[update.curseforge]
+file-id = 8734621
+project-id = 1632863

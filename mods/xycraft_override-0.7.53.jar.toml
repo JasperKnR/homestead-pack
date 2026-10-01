@@ -1,0 +1,12 @@
+name = "XyCraft: Override"
+filename = "xycraft_override-0.7.53.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6872/531/xycraft_override-0.7.53.jar"
+hash-format = "sha256"
+hash = "e14989bbb0ebcbfd45e248f5b301607688d22bf164ca1f60a3d721e71c6feae1"
+
+[update.curseforge]
+file-id = 6872531
+project-id = 653790

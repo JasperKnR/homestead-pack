@@ -1,0 +1,12 @@
+name = "Quests Lang Splitter"
+filename = "ftbquestslangsplitter-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8553/627/ftbquestslangsplitter-1.0.6.jar"
+hash-format = "sha256"
+hash = "563b9ffcf5e92f1f493c0e925bd0e5b6c45084812d7bec400d928ca88506617c"
+
+[update.curseforge]
+file-id = 8553627
+project-id = 1326856

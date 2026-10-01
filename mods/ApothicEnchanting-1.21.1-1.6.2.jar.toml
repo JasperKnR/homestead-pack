@@ -1,0 +1,12 @@
+name = "Apothic Enchanting"
+filename = "ApothicEnchanting-1.21.1-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8797/650/ApothicEnchanting-1.21.1-1.6.2.jar"
+hash-format = "sha256"
+hash = "652406bc2e4c2d8488c93d35d38202390897e0ec6b4bc60b4813ce2fb6ad69f6"
+
+[update.curseforge]
+file-id = 8797650
+project-id = 1063926

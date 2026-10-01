@@ -1,0 +1,12 @@
+name = "Plonk"
+filename = "plonk-1.21.1-10.0.6-neo.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6343/120/plonk-1.21.1-10.0.6-neo.jar"
+hash-format = "sha256"
+hash = "d9ec32bebdaf5786ed2ec7acd971e0c394cb71ebe3dc83a7b2938df830ec3f97"
+
+[update.curseforge]
+file-id = 6343120
+project-id = 345779

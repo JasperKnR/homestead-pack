@@ -1,0 +1,12 @@
+name = "AEInfinityBooster"
+filename = "aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8377/914/aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar"
+hash-format = "sha256"
+hash = "4b5140cd5ac4a7bc3cd99c339885614978bfa675eb320f4a4a39491e40af4bca"
+
+[update.curseforge]
+file-id = 8377914
+project-id = 559313

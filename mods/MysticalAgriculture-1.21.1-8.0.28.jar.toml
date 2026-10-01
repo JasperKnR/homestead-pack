@@ -1,0 +1,12 @@
+name = "Mystical Agriculture"
+filename = "MysticalAgriculture-1.21.1-8.0.28.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8796/913/MysticalAgriculture-1.21.1-8.0.28.jar"
+hash-format = "sha256"
+hash = "49c2d56c4100618c35c6885487a39aa47e7364ca32ae9f96bcf24f5756347d1a"
+
+[update.curseforge]
+file-id = 8796913
+project-id = 246640

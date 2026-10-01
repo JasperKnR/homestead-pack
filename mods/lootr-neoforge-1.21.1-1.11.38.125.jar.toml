@@ -1,0 +1,12 @@
+name = "Lootr (Forge & NeoForge)"
+filename = "lootr-neoforge-1.21.1-1.11.38.125.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8811/105/lootr-neoforge-1.21.1-1.11.38.125.jar"
+hash-format = "sha256"
+hash = "091878598fa5cb51cd304bf9324afe46420d328b6f77a9ba38acc15e26945e9e"
+
+[update.curseforge]
+file-id = 8811105
+project-id = 361276

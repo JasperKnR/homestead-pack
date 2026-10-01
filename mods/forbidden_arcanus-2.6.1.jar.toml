@@ -1,0 +1,12 @@
+name = "Forbidden and Arcanus"
+filename = "forbidden_arcanus-2.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6875/895/forbidden_arcanus-2.6.1.jar"
+hash-format = "sha256"
+hash = "8d5ef1557fcdd0ba9fe98c38458751bcbecb118c30924daa6fbdea0a54bf5785"
+
+[update.curseforge]
+file-id = 6875895
+project-id = 309858

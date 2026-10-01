@@ -1,0 +1,12 @@
+name = "FindMe"
+filename = "findme-3.3.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6464/161/findme-3.3.3-neoforge.jar"
+hash-format = "sha256"
+hash = "9b19a74cfa1ff011a10d55108e58b48700e8121fa0785d261a8d645ac10ec2ff"
+
+[update.curseforge]
+file-id = 6464161
+project-id = 291936

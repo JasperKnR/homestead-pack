@@ -1,0 +1,12 @@
+name = "Bridging Mod"
+filename = "BridgingMod-2.6.2+1.21.1.neoforge-release.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6269/728/BridgingMod-2.6.2%2b1.21.1.neoforge-release.jar"
+hash-format = "sha256"
+hash = "382f3688c1a6c93ae96c12e8c7b3f529aa1a2f7dd07c2aaabda5e0b28464715b"
+
+[update.curseforge]
+file-id = 6269728
+project-id = 533942

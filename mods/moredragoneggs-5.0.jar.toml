@@ -1,0 +1,12 @@
+name = "More Dragon Eggs"
+filename = "moredragoneggs-5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5746/86/moredragoneggs-5.0.jar"
+hash-format = "sha256"
+hash = "d70d9560783e2aa30945185e543c793f890c642e4268c6c2116102a26b73d6bf"
+
+[update.curseforge]
+file-id = 5746086
+project-id = 358700

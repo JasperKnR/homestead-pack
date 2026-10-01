@@ -1,0 +1,12 @@
+name = "Cryonic Config"
+filename = "cryonicconfig-neoforge-1.0.0+mc1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7344/729/cryonicconfig-neoforge-1.0.0%2bmc1.21.11.jar"
+hash-format = "sha256"
+hash = "a33856fd37d787b3bd4103d5c045e669c2f4274efb8d10f1ee0a759911a21e2c"
+
+[update.curseforge]
+file-id = 7344729
+project-id = 1208896

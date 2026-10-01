@@ -1,0 +1,12 @@
+name = "Sky GUIs"
+filename = "SkyGUIs-21.1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8799/977/SkyGUIs-21.1.10.jar"
+hash-format = "sha256"
+hash = "6754f77be6081b9ae3c63591974cd752fff95cddd5e8ce130dae2079d4677848"
+
+[update.curseforge]
+file-id = 8799977
+project-id = 557696

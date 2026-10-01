@@ -1,0 +1,12 @@
+name = "Just Enough Immersive Multiblocks"
+filename = "jeimultiblocks-1.21.1-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7131/196/jeimultiblocks-1.21.1-1.0.6.jar"
+hash-format = "sha256"
+hash = "86098b6a34a311e845713a199491458972f3a5f68cb7d6b9b380b4f576e20027"
+
+[update.curseforge]
+file-id = 7131196
+project-id = 634571

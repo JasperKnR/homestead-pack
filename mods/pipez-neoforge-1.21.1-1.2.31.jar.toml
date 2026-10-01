@@ -1,0 +1,12 @@
+name = "Pipez"
+filename = "pipez-neoforge-1.21.1-1.2.31.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8351/631/pipez-neoforge-1.21.1-1.2.31.jar"
+hash-format = "sha256"
+hash = "9b37e922443ea3452daeacbfba4bcf69de07692183c4ee09f1d1e82c9fc5cc5f"
+
+[update.curseforge]
+file-id = 8351631
+project-id = 443900

@@ -1,0 +1,12 @@
+name = "Logistics Network"
+filename = "logisticsnetworks-1.21.1-1.15.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8832/420/logisticsnetworks-1.21.1-1.15.0.jar"
+hash-format = "sha256"
+hash = "cb79239d75c45cc110bc750ae0155f2d42e747e86fcbeeae0f39582c7858f9a7"
+
+[update.curseforge]
+file-id = 8832420
+project-id = 1448257

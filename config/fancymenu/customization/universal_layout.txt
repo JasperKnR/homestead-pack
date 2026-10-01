@@ -3,13 +3,25 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1770662423330
+  last_edited_time = 1758743892392
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:1602abbf-47c5-4259-8f4f-fc4cba8eebc8-1770662418782] = [groups:][instances:]
+  [loading_requirement_container_meta:577cf9a0-a396-43ae-8283-356ac805aff0-1758743729374] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]/config/fancymenu/assets/empty_background.png
+  slide = false
+  repeat_texture = false
+  parallax = false
+  parallax_intensity = 0.02
+  invert_parallax = false
+  restart_animated_on_menu_load = false
+  instance_identifier = eba32156-895e-4f99-9ea3-cc0717368526-1756744643533
+  background_type = image
 }
 
 customization {
@@ -29,43 +41,5 @@ scroll_list_customization {
 }
 
 layout_action_executable_blocks {
-}
-
-element {
-  source = [source:local]/config/fancymenu/assets/cursor.png
-  hotspot_x = 0
-  hotspot_y = 0
-  editor_preview_mode = false
-  element_type = cursor
-  instance_identifier = 42dd0fc3-4236-4700-95d9-9a96a5d5ceac-1746644918603
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = true
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1084
-  sticky_anchor = false
-  anchor_point = mid-centered
-  x = -85
-  y = -139
-  width = 50
-  height = 100
-  stretch_x = true
-  stretch_y = true
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = a7c2fa39-49e6-44ef-8d7e-1cf69b583056-1746644918603
-  [loading_requirement_container_meta:a7c2fa39-49e6-44ef-8d7e-1cf69b583056-1746644918603] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
 }
 

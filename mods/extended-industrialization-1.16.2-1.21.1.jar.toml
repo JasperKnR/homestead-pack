@@ -1,0 +1,12 @@
+name = "Extended Industrialization"
+filename = "extended-industrialization-1.16.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8708/268/extended-industrialization-1.16.2-1.21.1.jar"
+hash-format = "sha256"
+hash = "22c68835266a83a77511d3f341cbdecb7c9eee0f1c9e7318d7c77283691e5c9c"
+
+[update.curseforge]
+file-id = 8708268
+project-id = 1068418

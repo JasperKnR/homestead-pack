@@ -1,0 +1,12 @@
+name = "Chisel Chipped Integration"
+filename = "chisel_chipped_integration-v1.3.9-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6693/853/chisel_chipped_integration-v1.3.9-1.21.1.jar"
+hash-format = "sha256"
+hash = "49bca801c0527239c86fc2f36b397f68c7e1ad9016f71dbc15bb66d345693432"
+
+[update.curseforge]
+file-id = 6693853
+project-id = 971089

@@ -1,0 +1,12 @@
+name = "XNet"
+filename = "xnet-1.21-7.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8256/226/xnet-1.21-7.0.7.jar"
+hash-format = "sha256"
+hash = "0f393a4bff91a90e0665ec6d66ff649e45f9c33311dc038e4a5df0b154ea9d80"
+
+[update.curseforge]
+file-id = 8256226
+project-id = 260912

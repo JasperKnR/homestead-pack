@@ -1,0 +1,12 @@
+name = "Just Dire Things"
+filename = "justdirethings-1.5.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7463/40/justdirethings-1.5.7.jar"
+hash-format = "sha256"
+hash = "6e5f7dd7091cc271fee66b0df62bde2250e8b52397b51dd911f79c088eb22d2f"
+
+[update.curseforge]
+file-id = 7463040
+project-id = 1002348

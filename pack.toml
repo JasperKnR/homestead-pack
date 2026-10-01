@@ -1,13 +1,13 @@
-name = "Homestead SMP"
+name = "라떼의 스카이블럭"
 author = "Jasper"
-version = "1.1.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ac5207543e23a8ca2b39c1ac7b398d3ec04758ea35caf88d95b5ef460832f058"
+hash = "7a4c66a4f9792602b88c060ca4c8725aff9d5daf00e1ede57b094b00eb1a115d"
 
 [versions]
-minecraft = "1.20.1"
-fabric = "0.18.4"
+minecraft = "1.21.1"
+neoforge = "21.1.250"

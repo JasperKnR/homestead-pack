@@ -1,0 +1,12 @@
+name = "Applied Energistics 2 Wireless Terminals"
+filename = "ae2wtlib-19.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8450/398/ae2wtlib-19.5.1.jar"
+hash-format = "sha256"
+hash = "407e7300351353cb4cb7698286e180aef2bd6e7a97ec7efc6493f9daa4dbffe5"
+
+[update.curseforge]
+file-id = 8450398
+project-id = 459929

@@ -1,0 +1,12 @@
+name = "Charging Gadgets"
+filename = "charginggadgets-1.14.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5615/790/charginggadgets-1.14.1.jar"
+hash-format = "sha256"
+hash = "411bae6c95c1c4ab19e0431785341dabe39b6eaf5f132abd00514264243ba2ac"
+
+[update.curseforge]
+file-id = 5615790
+project-id = 399757

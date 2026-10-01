@@ -1,0 +1,12 @@
+name = "GeOre Nouveau"
+filename = "GeOre_Nouveau-1.21.1-0.5.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7966/736/GeOre_Nouveau-1.21.1-0.5.9.jar"
+hash-format = "sha256"
+hash = "dda643c30556ebf1b0c0ca7a2f2ed586a6731176f3c7bccb9911f84ab5496722"
+
+[update.curseforge]
+file-id = 7966736
+project-id = 667803

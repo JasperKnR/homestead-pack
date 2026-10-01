@@ -1,0 +1,12 @@
+name = "Crafting on a stick"
+filename = "crafting_on_a_stick-1.21.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8382/581/crafting_on_a_stick-1.21.0.6.jar"
+hash-format = "sha256"
+hash = "dc90054bc50fcf4680e33e1515629e2c92508c04d5594afd0eeb08777ad5c9b7"
+
+[update.curseforge]
+file-id = 8382581
+project-id = 577850

@@ -1,0 +1,12 @@
+name = "Railcraft Reborn"
+filename = "railcraft-reborn-1.21.1-1.2.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7393/678/railcraft-reborn-1.21.1-1.2.10.jar"
+hash-format = "sha256"
+hash = "7de3dfeac277da57f9897822824332c99e53b9d36956143b38c0966f39144328"
+
+[update.curseforge]
+file-id = 7393678
+project-id = 901491

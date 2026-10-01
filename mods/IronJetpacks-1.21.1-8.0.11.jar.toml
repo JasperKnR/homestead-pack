@@ -1,0 +1,12 @@
+name = "Iron Jetpacks"
+filename = "IronJetpacks-1.21.1-8.0.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7105/279/IronJetpacks-1.21.1-8.0.11.jar"
+hash-format = "sha256"
+hash = "aa589c0a9cec53f554cacef95dd4af45c1bbd351aab4c12104240f8a8d79b909"
+
+[update.curseforge]
+file-id = 7105279
+project-id = 284497

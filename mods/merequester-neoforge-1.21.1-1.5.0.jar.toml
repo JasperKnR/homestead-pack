@@ -1,0 +1,12 @@
+name = "ME Requester"
+filename = "merequester-neoforge-1.21.1-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8787/722/merequester-neoforge-1.21.1-1.5.0.jar"
+hash-format = "sha256"
+hash = "8ac35e46e0a6102fd17eaa7aeda94eaf4755e448c703b6130f3ff1731bee03e5"
+
+[update.curseforge]
+file-id = 8787722
+project-id = 688367

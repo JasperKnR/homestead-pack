@@ -1,0 +1,12 @@
+name = "GeOre"
+filename = "GeOre-1.21.1-6.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7563/411/GeOre-1.21.1-6.2.2.jar"
+hash-format = "sha256"
+hash = "f5dc2ab36a92460f14eebcc4551779553631b2a10c3162a8456d0bef326920aa"
+
+[update.curseforge]
+file-id = 7563411
+project-id = 530544

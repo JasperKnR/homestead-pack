@@ -1,0 +1,12 @@
+name = "AllTheCompressed"
+filename = "allthecompressed-1.21.1-4.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7361/502/allthecompressed-1.21.1-4.4.0.jar"
+hash-format = "sha256"
+hash = "d1b0c1135d8c206b8f18c73afa08256c74f8b9504626f90e2a64614c92163c36"
+
+[update.curseforge]
+file-id = 7361502
+project-id = 514045

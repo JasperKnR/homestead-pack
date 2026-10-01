@@ -1,0 +1,12 @@
+name = "Spiky Spikes"
+filename = "SpikySpikes-v21.1.2-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6926/581/SpikySpikes-v21.1.2-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "919e16693d13979332b0bcd7852efb610624cb0b16242d89b20c29723fb3164d"
+
+[update.curseforge]
+file-id = 6926581
+project-id = 666944

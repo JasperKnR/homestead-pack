@@ -1,0 +1,12 @@
+name = "Trash Cans"
+filename = "trashcans-1.1.0-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8646/611/trashcans-1.1.0-neoforge-mc1.21.jar"
+hash-format = "sha256"
+hash = "6b6bf375c71d97fd8d76036e0e4829c477626e3cc5f44612fd5adf5d5d9f9dd7"
+
+[update.curseforge]
+file-id = 8646611
+project-id = 394535

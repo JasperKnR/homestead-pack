@@ -1,0 +1,12 @@
+name = "RFTools Builder"
+filename = "rftoolsbuilder-1.21-7.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8704/384/rftoolsbuilder-1.21-7.0.6.jar"
+hash-format = "sha256"
+hash = "d35029986064919cdebf93cebdbe6d6119e830cd0532a44b18bacfe75f4ebb4b"
+
+[update.curseforge]
+file-id = 8704384
+project-id = 347706

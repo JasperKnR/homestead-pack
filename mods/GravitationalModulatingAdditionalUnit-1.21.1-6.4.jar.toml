@@ -1,0 +1,12 @@
+name = "Gravitational Modulating Additional Unit"
+filename = "GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6895/172/GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar"
+hash-format = "sha256"
+hash = "11c078cf2031ca863a5cec5d2f69590ddee84e67a16066f2b42ee7d78221982d"
+
+[update.curseforge]
+file-id = 6895172
+project-id = 656136

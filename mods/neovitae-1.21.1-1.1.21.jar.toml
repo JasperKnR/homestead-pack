@@ -1,0 +1,12 @@
+name = "Neo Vitae"
+filename = "neovitae-1.21.1-1.1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8834/430/neovitae-1.21.1-1.1.21.jar"
+hash-format = "sha256"
+hash = "ee51c004b1ef72ce8c464d31b70989aef4f0ecd468758acd5e285879cda3f223"
+
+[update.curseforge]
+file-id = 8834430
+project-id = 1404763

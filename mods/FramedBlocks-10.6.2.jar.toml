@@ -1,0 +1,12 @@
+name = "FramedBlocks"
+filename = "FramedBlocks-10.6.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8780/141/FramedBlocks-10.6.2.jar"
+hash-format = "sha256"
+hash = "3cc56f93deb36685eea437bfe35baca204769623bae626ac2b29522a086aece1"
+
+[update.curseforge]
+file-id = 8780141
+project-id = 441647

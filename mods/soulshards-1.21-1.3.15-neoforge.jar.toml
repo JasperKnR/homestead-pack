@@ -1,0 +1,12 @@
+name = "CreeperHost Presents Soul Shards"
+filename = "soulshards-1.21-1.3.15-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6331/55/soulshards-1.21-1.3.15-neoforge.jar"
+hash-format = "sha256"
+hash = "af057160652565d8a739d3301df401fa006b533da5ebf54bd697666afde6670e"
+
+[update.curseforge]
+file-id = 6331055
+project-id = 551523

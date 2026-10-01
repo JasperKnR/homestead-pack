@@ -1,0 +1,12 @@
+name = "Sound Physics Remastered"
+filename = "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7032/247/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+hash-format = "sha256"
+hash = "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177"
+
+[update.curseforge]
+file-id = 7032247
+project-id = 535489

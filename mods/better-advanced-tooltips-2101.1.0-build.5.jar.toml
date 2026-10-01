@@ -1,0 +1,12 @@
+name = "Better Advanced Tooltips"
+filename = "better-advanced-tooltips-2101.1.0-build.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8576/77/better-advanced-tooltips-2101.1.0-build.5.jar"
+hash-format = "sha256"
+hash = "0f76d46f2f18eb67e67c7974170d7b27deb66473396461c8dc50d6949de1449b"
+
+[update.curseforge]
+file-id = 8576077
+project-id = 1637623

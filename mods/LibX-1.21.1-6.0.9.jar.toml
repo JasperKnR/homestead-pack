@@ -1,0 +1,12 @@
+name = "LibX"
+filename = "LibX-1.21.1-6.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7446/147/LibX-1.21.1-6.0.9.jar"
+hash-format = "sha256"
+hash = "c19b085cf70dbdb5e17ba8530de0e5e1b08b0d6f2c8282b719d75fd31254b2ca"
+
+[update.curseforge]
+file-id = 7446147
+project-id = 412525

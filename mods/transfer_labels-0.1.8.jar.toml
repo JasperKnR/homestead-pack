@@ -1,0 +1,12 @@
+name = "Transfer Labels"
+filename = "transfer_labels-0.1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8334/598/transfer_labels-0.1.8.jar"
+hash-format = "sha256"
+hash = "352f4a7c061442b04d56918e48fb3c52eff505de2d5b3a17cf098d0116cb62c3"
+
+[update.curseforge]
+file-id = 8334598
+project-id = 1184406

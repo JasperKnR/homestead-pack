@@ -1,0 +1,12 @@
+name = "All The Tweaks"
+filename = "allthetweaks-1.21.1-2.10.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8846/199/allthetweaks-1.21.1-2.10.0.jar"
+hash-format = "sha256"
+hash = "6bbc41934cf35b7aee6a94f83426033fbc69aeeaf7b20726af1eacb7d76e3612"
+
+[update.curseforge]
+file-id = 8846199
+project-id = 364120

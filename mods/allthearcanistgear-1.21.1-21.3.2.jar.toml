@@ -1,0 +1,12 @@
+name = "All The Arcanist Gear"
+filename = "allthearcanistgear-1.21.1-21.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6928/639/allthearcanistgear-1.21.1-21.3.2.jar"
+hash-format = "sha256"
+hash = "4f04704305fcfd8f5c6d92b6ed1f5912a078c77a9442c3c0e224a24b352ddf3b"
+
+[update.curseforge]
+file-id = 6928639
+project-id = 1094032

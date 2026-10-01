@@ -1,0 +1,12 @@
+name = "Utility Vest"
+filename = "utilityvest-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8059/165/utilityvest-1.3.0.jar"
+hash-format = "sha256"
+hash = "74707133786ead0abfd622dce44fd8be41e5a11b1f5195fa483c9f80ddd7409d"
+
+[update.curseforge]
+file-id = 8059165
+project-id = 1284144

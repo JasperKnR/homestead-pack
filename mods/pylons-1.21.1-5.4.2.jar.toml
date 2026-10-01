@@ -1,0 +1,12 @@
+name = "Pylons"
+filename = "pylons-1.21.1-5.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7589/396/pylons-1.21.1-5.4.2.jar"
+hash-format = "sha256"
+hash = "aa650d4741dfc5506468d6472d30c2a98f91e38c4f5cde259eda471895d02ba7"
+
+[update.curseforge]
+file-id = 7589396
+project-id = 518211

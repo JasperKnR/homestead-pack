@@ -1,0 +1,12 @@
+name = "MezzConfig"
+filename = "mezz_config-1.21.1-neoforge-0.6.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8932/688/mezz_config-1.21.1-neoforge-0.6.3.jar"
+hash-format = "sha256"
+hash = "408aa9e3ae67bca3f7269030c9937b9e716d4d5e995eb67ac23a0b6e7233c30f"
+
+[update.curseforge]
+file-id = 8932688
+project-id = 1689768

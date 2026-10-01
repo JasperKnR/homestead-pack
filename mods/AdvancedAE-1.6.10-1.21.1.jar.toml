@@ -1,0 +1,12 @@
+name = "AdvancedAE"
+filename = "AdvancedAE-1.6.10-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7668/664/AdvancedAE-1.6.10-1.21.1.jar"
+hash-format = "sha256"
+hash = "6bef90401f8a8a30a1bb2492cb49c5d0f2b0bbf18c4703536a6f9ffb3b9ce5e8"
+
+[update.curseforge]
+file-id = 7668664
+project-id = 1084104

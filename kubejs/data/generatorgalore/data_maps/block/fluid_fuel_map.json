@@ -1,0 +1,15 @@
+{
+  "values": {
+    "generatorgalore:magmatic_generator": {
+      "fuels": [
+        {
+          "consumptionRate": 0.6,
+          "fluid": {
+            "tag": "minecraft:lava"
+          },
+          "generationRate": 160.0
+        }
+      ]
+    }
+  }
+}

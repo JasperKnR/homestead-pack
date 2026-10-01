@@ -1,0 +1,12 @@
+name = "Integrated Terminals"
+filename = "integratedterminals-1.21.1-neoforge-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8815/708/integratedterminals-1.21.1-neoforge-1.9.0.jar"
+hash-format = "sha256"
+hash = "98ae81d6acbfd3c48a174c6d37d06129c36b17f741c1890a01b3ae600b05f97c"
+
+[update.curseforge]
+file-id = 8815708
+project-id = 295910

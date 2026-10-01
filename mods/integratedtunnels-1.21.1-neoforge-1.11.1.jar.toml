@@ -1,0 +1,12 @@
+name = "Integrated Tunnels"
+filename = "integratedtunnels-1.21.1-neoforge-1.11.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8830/613/integratedtunnels-1.21.1-neoforge-1.11.1.jar"
+hash-format = "sha256"
+hash = "87b67c1621b1471539575a7531e7c87234232048518c25e83b285d9fae472b11"
+
+[update.curseforge]
+file-id = 8830613
+project-id = 251389

@@ -1,0 +1,12 @@
+name = "Euphoria Patches"
+filename = "EuphoriaPatcher-1.10.0-r5.9-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8791/859/EuphoriaPatcher-1.10.0-r5.9-neoforge.jar"
+hash-format = "sha256"
+hash = "88db61601e6b860e492421784a33ab6f78c04015195643bff02e9e20ce128e32"
+
+[update.curseforge]
+file-id = 8791859
+project-id = 915902

@@ -1,0 +1,12 @@
+name = "Dyson Cube Project"
+filename = "dysoncubeproject-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8082/907/dysoncubeproject-1.0.5.jar"
+hash-format = "sha256"
+hash = "9b28c535fbf0dcc78460fcba619099db97121abe13cb83400faaafc8e7e8bbe5"
+
+[update.curseforge]
+file-id = 8082907
+project-id = 1345066
